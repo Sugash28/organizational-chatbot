@@ -1,4 +1,4 @@
 Flask==2.3.2
-groq==1.0.0  # Make sure to replace this with the correct version of groq if needed
+groq==0.10.0  # Make sure to replace this with the correct version of groq if needed
 Pillow==10.0.0  # For image processing if needed in the future
 gunicorn==20.1.0  # Optional, but useful for deploying Flask apps in production
